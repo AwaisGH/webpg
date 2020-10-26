@@ -19,4 +19,4 @@ Javascript is used to make your page interactive.It is the only Programming Lang
 # Objective Of Our Page
 This page is a so simple, it can be used by everyone to listup their works of the day.I have used Html, Css, js with simple coding.I also added some link with a little bit of animation at the bottom,do chechit out if possible in a free time:)   
 # youtube video
-https://img.youtube.com/vi/https://youtu.be/JiKDRo_7b78/0.jpg)](https://www.youtube.com/watch?v=https://youtu.be/JiKDRo_7b78
+https://img.youtube.com/vi/JiKDRo_7b78/0.jpg)](https://www.youtube.com/watch?v=JiKDRo_7b78
