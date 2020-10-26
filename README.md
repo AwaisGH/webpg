@@ -17,7 +17,7 @@ CSS gives a default look and feel to any HTML element that you add. By adding yo
 Javascript is used to make your page interactive.It is the only Programming Language for the web. Yes it is actually a programming language as compared to HTML (Markup Language) and CSS (Stylesheet).We have to link the javascript file in the body section of the html
 
 # Objective Of Our Page
-This page is a so simple, it can be used by everyone to listup their works of the day.I have used Html, Css, js with simple coding.I also added some link with a little bit of animation at the bottom,do chechit out if possible in a free time:)   
+This page is so simple, it can be used by everyone to listup their works of the day.I have used Html, Css, js with simple coding.I also added some link with a little bit of animation at the bottom,do chechit out if possible in a free time:)   
 
 # youtube video
 [![youtube link](https://img.youtube.com/vi/JiKDRo_7b78/0.jpg)](https://www.youtube.com/watch?v=JiKDRo_7b78)
