@@ -23,5 +23,5 @@ This page is a so simple, it can be used by everyone to listup their works of th
 [![youtube link](https://img.youtube.com/vi/JiKDRo_7b78/0.jpg)](https://www.youtube.com/watch?v=JiKDRo_7b78)
 
 # Block Diagram
-
+![block diagram](https://raw.githubusercontent.com/AwaisGH/webpg/main/TODO%20Diag.png)
 
